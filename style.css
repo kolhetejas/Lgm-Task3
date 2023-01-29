@@ -1,0 +1,22 @@
+body{
+	background-color: rgb(23, 82, 102);
+}
+header h1{
+	text-align: center;
+	background-color: lightcoral;
+}
+table{
+	margin-top: 50px;
+	text-align: center;
+	/* background: #333; */
+	background: lightcoral;
+	color: black;
+}
+
+#show th, #show td{
+	padding: 13px;
+}
+
+#btna td input{
+	width: 100%;
+}
